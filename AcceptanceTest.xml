@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AWTTestScript desc="CITS1220 Programming Project Acceptance Test - 20925931">
+  <component class="javax.swing.JButton" id="All" index="18" parent="JPanel Instance" text="All" window="Project Manager" />
+  <component class="javax.swing.JButton" id="Edit" index="16" parent="JPanel Instance" text="Edit" window="Project Manager" />
+  <component class="javax.swing.JButton" id="Edit Name" index="13" parent="JPanel Instance" text="Edit Name" window="Project Manager" />
+  <component class="ProjectNameGUI" id="Edit Project Name" root="true" title="Edit Project Name" />
+  <component class="TaskEditGUI" id="Edit Task - Requirements Analysis" root="true" title="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JCheckBox" id="End Date" index="2" parent="JPanel Instance 27" text=" End Date" window="Sort Tasks" />
+  <component class="javax.swing.JButton" id="Exit" index="22" parent="JPanel Instance" text="Exit" window="Project Manager" />
+  <component class="javax.swing.JComboBox" id="JComboBox Instance" index="9" parent="JPanel Instance 7" window="New Task" />
+  <component class="javax.swing.JComboBox" id="JComboBox Instance 2" index="9" parent="JPanel Instance 14" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance" index="1" parent="JRootPane Instance" window="Project Manager" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 10" index="1" parent="JRootPane Instance 10" window="New Task" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 11" index="1" parent="JRootPane Instance 11" window="New Task" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 12" index="1" parent="JRootPane Instance 12" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 13" index="1" parent="JRootPane Instance 13" window="New Staff 2" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 14" index="1" parent="JRootPane Instance 14" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 15" index="1" parent="JRootPane Instance 15" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 16" index="1" parent="JRootPane Instance 16" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 17" index="1" parent="JRootPane Instance 17" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 18" index="1" parent="JRootPane Instance 18" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 19" index="1" parent="JRootPane Instance 19" window="New Task" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 2" index="1" parent="JRootPane Instance 2" window="Edit Project Name" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 20" index="1" parent="JRootPane Instance 20" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 21" index="1" parent="JRootPane Instance 21" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 22" index="1" parent="JRootPane Instance 22" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 23" index="1" parent="JRootPane Instance 23" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 24" index="1" parent="JRootPane Instance 24" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 25" index="1" parent="JRootPane Instance 25" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 26" index="1" parent="JRootPane Instance 26" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 27" index="1" parent="JRootPane Instance 27" window="Sort Tasks" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 28" index="1" parent="JRootPane Instance 28" window="Saving..." />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 3" index="1" parent="JRootPane Instance 3" window="New Staff 2" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 4" index="1" parent="JRootPane Instance 4" window="New Staff 2" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 5" index="1" parent="JRootPane Instance 5" window="New Staff 2" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 6" index="1" parent="JRootPane Instance 6" window="New Task" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 7" index="1" parent="JRootPane Instance 7" window="New Task" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 8" index="1" parent="JRootPane Instance 8" window="New Task" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 9" index="1" parent="JRootPane Instance 9" window="New Task" />
+  <component class="javax.swing.JOptionPane" id="JOptionPane Instance" index="0" parent="JPanel Instance 28" window="Saving..." />
+  <component class="javax.swing.JPanel" hOrder="1" id="JPanel Instance" index="0" parent="JLayeredPane Instance" window="Project Manager" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 10" index="0" parent="JLayeredPane Instance 10" window="New Task" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 11" index="0" parent="JLayeredPane Instance 11" window="New Task" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 12" index="0" parent="JLayeredPane Instance 12" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 13" index="0" parent="JLayeredPane Instance 13" window="New Staff 2" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 14" index="0" parent="JLayeredPane Instance 14" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 15" index="0" parent="JLayeredPane Instance 15" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 16" index="0" parent="JLayeredPane Instance 16" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 17" index="0" parent="JLayeredPane Instance 17" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 18" index="0" parent="JLayeredPane Instance 18" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 19" index="0" parent="JLayeredPane Instance 19" window="New Task" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 2" index="0" parent="JLayeredPane Instance 2" window="Edit Project Name" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 20" index="0" parent="JLayeredPane Instance 20" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 21" index="0" parent="JLayeredPane Instance 21" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 22" index="0" parent="JLayeredPane Instance 22" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 23" index="0" parent="JLayeredPane Instance 23" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 24" index="0" parent="JLayeredPane Instance 24" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 25" index="0" parent="JLayeredPane Instance 25" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 26" index="0" parent="JLayeredPane Instance 26" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 27" index="0" parent="JLayeredPane Instance 27" window="Sort Tasks" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 28" index="0" parent="JLayeredPane Instance 28" window="Saving..." />
+  <component class="javax.swing.JPanel" id="JPanel Instance 3" index="0" parent="JLayeredPane Instance 3" window="New Staff 2" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 4" index="0" parent="JLayeredPane Instance 4" window="New Staff 2" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 5" index="0" parent="JLayeredPane Instance 5" window="New Staff 2" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 6" index="0" parent="JLayeredPane Instance 6" window="New Task" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 7" index="0" parent="JLayeredPane Instance 7" window="New Task" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 8" index="0" parent="JLayeredPane Instance 8" window="New Task" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 9" index="0" parent="JLayeredPane Instance 9" window="New Task" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance" index="0" parent="Project Manager" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 10" index="0" parent="New Task" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 11" index="0" parent="New Task" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 12" index="0" parent="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 13" index="0" parent="New Staff 2" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 14" index="0" parent="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 15" index="0" parent="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 16" index="0" parent="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 17" index="0" parent="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 18" index="0" parent="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 19" index="0" parent="New Task" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 2" index="0" parent="Edit Project Name" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 20" index="0" parent="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 21" index="0" parent="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 22" index="0" parent="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 23" index="0" parent="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 24" index="0" parent="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 25" index="0" parent="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 26" index="0" parent="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 27" index="0" parent="Sort Tasks" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 28" index="0" parent="Saving..." />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 3" index="0" parent="New Staff 2" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 4" index="0" parent="New Staff 2" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 5" index="0" parent="New Staff 2" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 6" index="0" parent="New Task" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 7" index="0" parent="New Task" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 8" index="0" parent="New Task" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 9" index="0" parent="New Task" />
+  <component class="javax.swing.JScrollPane" id="JScrollPane Instance" index="11" parent="JPanel Instance" window="Project Manager" />
+  <component class="javax.swing.JScrollPane" id="JScrollPane Instance 2" index="24" parent="JPanel Instance" window="Project Manager" />
+  <component class="javax.swing.JTable" id="JTable Instance" index="0" parent="JViewport Instance" window="Project Manager" />
+  <component class="javax.swing.JTable" id="JTable Instance 2" index="0" parent="JViewport Instance 2" window="Project Manager" />
+  <component class="javax.swing.JTextArea" id="JTextArea Instance" index="8" parent="JPanel Instance 6" window="New Task" />
+  <component class="javax.swing.JTextField" id="JTextField Instance" index="1" parent="JPanel Instance 2" window="Edit Project Name" />
+  <component class="javax.swing.JTextField" id="JTextField Instance 2" index="3" parent="JPanel Instance 3" window="New Staff 2" />
+  <component class="javax.swing.JTextField" id="JTextField Instance 3" index="4" parent="JPanel Instance 3" window="New Staff 2" />
+  <component class="javax.swing.JTextField" id="JTextField Instance 4" index="5" parent="JPanel Instance 3" window="New Staff 2" />
+  <component class="javax.swing.JTextField" id="JTextField Instance 5" index="5" parent="JPanel Instance 6" window="New Task" />
+  <component class="javax.swing.JTextField" id="JTextField Instance 6" index="6" parent="JPanel Instance 6" window="New Task" />
+  <component class="javax.swing.JTextField" id="JTextField Instance 7" index="7" parent="JPanel Instance 6" window="New Task" />
+  <component class="javax.swing.JTextField" id="JTextField Instance 8" index="7" parent="JPanel Instance 12" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JViewport" id="JViewport Instance" index="0" parent="JScrollPane Instance" window="Project Manager" />
+  <component class="javax.swing.JViewport" id="JViewport Instance 2" index="0" parent="JScrollPane Instance 2" window="Project Manager" />
+  <component class="javax.swing.JButton" id="New" index="14" parent="JPanel Instance" text="New" window="Project Manager" />
+  <component class="javax.swing.JButton" id="New Staff" index="20" parent="JPanel Instance" text="New Staff" window="Project Manager" />
+  <component class="StaffGUI" id="New Staff 2" root="true" title="New Staff" />
+  <component class="TaskGUI" id="New Task" root="true" title="New Task" />
+  <component class="javax.swing.JButton" id="OptionPane.button" index="0" name="OptionPane.button" parent="OptionPane.buttonArea" text="OK" window="Saving..." />
+  <component class="javax.swing.JPanel" id="OptionPane.buttonArea" index="1" name="OptionPane.buttonArea" parent="JOptionPane Instance" window="Saving..." />
+  <component class="ProjectGUI" id="Project Manager" root="true" title="Project Manager" />
+  <component class="javax.swing.JButton" id="Remove Staff" index="20" parent="JPanel Instance" text="Remove Staff" window="Project Manager" />
+  <component class="javax.swing.JButton" id="Save" index="3" parent="JPanel Instance 2" text="Save" window="Edit Project Name" />
+  <component class="javax.swing.JButton" id="Save 10" index="12" parent="JPanel Instance 11" text="Save" window="New Task" />
+  <component class="javax.swing.JButton" id="Save 11" index="12" parent="JPanel Instance 12" text="Save" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JButton" id="Save 12" index="8" parent="JPanel Instance 13" text="Save" window="New Staff 2" />
+  <component class="javax.swing.JButton" id="Save 13" index="12" parent="JPanel Instance 14" text="Save" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JButton" id="Save 14" index="12" parent="JPanel Instance 15" text="Save" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JButton" id="Save 15" index="12" parent="JPanel Instance 16" text="Save" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JButton" id="Save 16" index="12" parent="JPanel Instance 17" text="Save" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JButton" id="Save 17" index="12" parent="JPanel Instance 18" text="Save" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JButton" id="Save 18" index="12" parent="JPanel Instance 19" text="Save" window="New Task" />
+  <component class="javax.swing.JButton" id="Save 19" index="12" parent="JPanel Instance 20" text="Save" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JButton" id="Save 2" index="8" parent="JPanel Instance 3" text="Save" window="New Staff 2" />
+  <component class="javax.swing.JButton" id="Save 20" index="12" parent="JPanel Instance 21" text="Save" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JButton" id="Save 21" index="12" parent="JPanel Instance 22" text="Save" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JButton" id="Save 22" index="12" parent="JPanel Instance 23" text="Save" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JButton" id="Save 23" index="12" parent="JPanel Instance 24" text="Save" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JButton" id="Save 24" index="12" parent="JPanel Instance 25" text="Save" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JButton" id="Save 25" index="12" parent="JPanel Instance 26" text="Save" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.JButton" id="Save 26" index="5" parent="JPanel Instance 27" text="Save" window="Sort Tasks" />
+  <component class="javax.swing.JButton" id="Save 3" index="8" parent="JPanel Instance 4" text="Save" window="New Staff 2" />
+  <component class="javax.swing.JButton" id="Save 4" index="8" parent="JPanel Instance 5" text="Save" window="New Staff 2" />
+  <component class="javax.swing.JButton" id="Save 5" index="12" parent="JPanel Instance 6" text="Save" window="New Task" />
+  <component class="javax.swing.JButton" id="Save 6" index="12" parent="JPanel Instance 7" text="Save" window="New Task" />
+  <component class="javax.swing.JButton" id="Save 7" index="12" parent="JPanel Instance 8" text="Save" window="New Task" />
+  <component class="javax.swing.JButton" id="Save 8" index="12" parent="JPanel Instance 9" text="Save" window="New Task" />
+  <component class="javax.swing.JButton" id="Save 9" index="12" parent="JPanel Instance 10" text="Save" window="New Task" />
+  <component class="javax.swing.JDialog" id="Saving..." parent="shared frame" title="Saving..." />
+  <component class="javax.swing.JButton" id="Sort" index="16" parent="JPanel Instance" text="Sort" window="Project Manager" />
+  <component class="TaskSortGUI" id="Sort Tasks" root="true" title="Sort Tasks" />
+  <component class="javax.swing.JCheckBox" id="Task Completed?" index="10" parent="JPanel Instance 17" text=" Task Completed?" window="Edit Task - Requirements Analysis" />
+  <component class="javax.swing.SwingUtilities$SharedOwnerFrame" id="shared frame" root="true" title="" />
+  <launch args="[]" class="ProjectGUI" classpath="C:\Users\Eric\Documents\CITS1220\Programming Project\ProgrammingProject.jar" method="main" />
+  <sequence>
+    <action args="Edit Name" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Project Name" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JTextField Instance,Generic Software" method="actionKeyString" />
+    <action args="Save" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Project Name" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="New Staff" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Staff 2" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JTextField Instance 3,VK_TAB" method="actionKeyStroke" />
+    <action args="JTextField Instance 3,Bob" method="actionKeyString" />
+    <action args="JTextField Instance 3,VK_TAB" method="actionKeyStroke" />
+    <action args="JTextField Instance 4,Manager" method="actionKeyString" />
+    <action args="Save 2" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Staff 2" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="New Staff" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Staff 2" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JTextField Instance 2,VK_TAB" method="actionKeyStroke" />
+    <action args="JTextField Instance 3,Alice" method="actionKeyString" />
+    <action args="JTextField Instance 3,VK_TAB" method="actionKeyStroke" />
+    <action args="JTextField Instance 4,Developer" method="actionKeyString" />
+    <action args="New Staff 2,(209%2c171)" class="StaffGUI" method="actionClick" />
+    <action args="Save 3" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Staff 2" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="New Staff" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Staff 2" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JTextField Instance 2,VK_TAB" method="actionKeyStroke" />
+    <action args="JTextField Instance 3,Charlie" method="actionKeyString" />
+    <action args="JTextField Instance 3,VK_TAB" method="actionKeyStroke" />
+    <action args="JTextField Instance 4,Intern" method="actionKeyString" />
+    <action args="Save 4" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Staff 2" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="JTable Instance,&quot;Bob&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="JTable Instance,&quot;Alice&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="JTable Instance,&quot;Charlie&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="New" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Task" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JTextField Instance 5,Requirements Analysis" method="actionKeyString" />
+    <action args="JTextField Instance 6,8,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 6,1092011" method="actionKeyString" />
+    <action args="JTextField Instance 7,8,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 7,1102011" method="actionKeyString" />
+    <action args="JTextArea Instance,0" class="javax.swing.text.JTextComponent" method="actionClick" />
+    <action args="JTextArea Instance,Analysis of the requirements" method="actionKeyString" />
+    <action args="Save 5" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Task" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="New" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Task" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JTextField Instance 5,System Design" method="actionKeyString" />
+    <action args="JTextField Instance 6,8,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 6,15092011" method="actionKeyString" />
+    <action args="JTextField Instance 7,8,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 7,15102011" method="actionKeyString" />
+    <action args="JTextArea Instance,0" class="javax.swing.text.JTextComponent" method="actionClick" />
+    <action args="JTextArea Instance,Designing the system" method="actionKeyString" />
+    <action args="JComboBox Instance,Alice" class="javax.swing.JComboBox" method="actionSelectItem" />
+    <action args="Save 6" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Task" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="New" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Task" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JTextField Instance 5,Code (A)" method="actionKeyString" />
+    <action args="JTextField Instance 6,8,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 6,1102011" method="actionKeyString" />
+    <action args="JTextField Instance 7,8,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 7,1112011" method="actionKeyString" />
+    <action args="JTextArea Instance,0" class="javax.swing.text.JTextComponent" method="actionClick" />
+    <action args="JTextArea Instance,Part A of the code" method="actionKeyString" />
+    <action args="JComboBox Instance,Charlie" class="javax.swing.JComboBox" method="actionSelectItem" />
+    <action args="Save 7" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Task" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="New" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Task" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JTextField Instance 5,Code (B)" method="actionKeyString" />
+    <action args="JTextField Instance 6,8,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 6,1102011" method="actionKeyString" />
+    <action args="JTextField Instance 7,8,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 7,1112011" method="actionKeyString" />
+    <action args="JTextArea Instance,0" class="javax.swing.text.JTextComponent" method="actionClick" />
+    <action args="JTextArea Instance,Part B of the code" method="actionKeyString" />
+    <action args="JComboBox Instance,Alice" class="javax.swing.JComboBox" method="actionSelectItem" />
+    <action args="Save 8" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Task" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="New" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Task" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JTextField Instance 5,Testing" method="actionKeyString" />
+    <action args="JTextField Instance 6,8,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 6,15102011" method="actionKeyString" />
+    <action args="JTextField Instance 7,8,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 7,1112011" method="actionKeyString" />
+    <action args="JTextArea Instance,0" class="javax.swing.text.JTextComponent" method="actionClick" />
+    <action args="JTextArea Instance,Testing te" method="actionKeyString" />
+    <action args="JTextArea Instance,delete-previous" class="javax.swing.JComponent" method="actionActionMap" />
+    <action args="JTextArea Instance,he ss" method="actionKeyString" />
+    <action args="JTextArea Instance,delete-previous" class="javax.swing.JComponent" method="actionActionMap" />
+    <action args="JTextArea Instance,ystem" method="actionKeyString" />
+    <action args="Save 9" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Task" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="New" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Task" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JTextField Instance 5,Documn" method="actionKeyString" />
+    <action args="JTextField Instance 5,delete-previous" class="javax.swing.JComponent" method="actionActionMap" />
+    <action args="JTextField Instance 5,entation" method="actionKeyString" />
+    <action args="JTextField Instance 6,8,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 6,15092011" method="actionKeyString" />
+    <action args="JTextField Instance 7,8,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 7,1112011" method="actionKeyString" />
+    <action args="JTextArea Instance,0" class="javax.swing.text.JTextComponent" method="actionClick" />
+    <action args="JTextArea Instance,Documenting the ss" method="actionKeyString" />
+    <action args="JTextArea Instance,delete-previous" class="javax.swing.JComponent" method="actionActionMap" />
+    <action args="JTextArea Instance,ys" method="actionKeyString" />
+    <event component="JTextArea Instance" keyCode="VK_Y" kind="KEY_RELEASED" type="KeyEvent" />
+    <action args="JTextArea Instance,tem" method="actionKeyString" />
+    <action args="JComboBox Instance,Charlie" class="javax.swing.JComboBox" method="actionSelectItem" />
+    <action args="Save 10" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Task" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="JTable Instance,&quot;Bob&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="JTable Instance,&quot;Alice&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="JTable Instance,&quot;Charlie&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="All" class="javax.swing.AbstractButton" method="actionClick" />
+    <action args="JTable Instance 2,&quot;Requirements Analysis&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="Edit" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JTextField Instance 8,7,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 8,15102011" method="actionKeyString" />
+    <action args="Save 11" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="JTable Instance,&quot;Bob&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="JTable Instance,&quot;Alice&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="JTable Instance,&quot;Charlie&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="Remove Staff" class="javax.swing.AbstractButton" method="actionClick" />
+    <action args="New Staff" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Staff 2" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JTextField Instance 3,0" class="javax.swing.text.JTextComponent" method="actionClick" />
+    <action args="JTextField Instance 3,David" method="actionKeyString" />
+    <action args="JTextField Instance 3,VK_TAB" method="actionKeyStroke" />
+    <action args="JTextField Instance 4,Developer" method="actionKeyString" />
+    <action args="Save 12" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Staff 2" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="All" class="javax.swing.AbstractButton" method="actionClick" />
+    <action args="JTable Instance 2,&quot;Code (A)&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="Edit" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JComboBox Instance 2,David" class="javax.swing.JComboBox" method="actionSelectItem" />
+    <action args="Save 13" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="JTable Instance 2,&quot;Documentation&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="Edit" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JComboBox Instance 2,David" class="javax.swing.JComboBox" method="actionSelectItem" />
+    <action args="Save 14" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="JTable Instance 2,&quot;Code (A)&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="Edit" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JTextField Instance 8,7,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 8,15112011" method="actionKeyString" />
+    <action args="Save 15" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="JTable Instance 2,&quot;Requirements Analysis&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="Edit" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args=" Task Completed?" class="javax.swing.AbstractButton" method="actionClick" />
+    <action args="Save 16" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="JTable Instance 2,&quot;System Design&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="Edit" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args=" Task Completed?" class="javax.swing.AbstractButton" method="actionClick" />
+    <action args="Save 17" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="New" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Task" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JTextField Instance 5,Code (C)" method="actionKeyString" />
+    <action args="JTextField Instance 6,8,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 6,1112011" method="actionKeyString" />
+    <action args="JTextField Instance 7,8,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 7,15112011" method="actionKeyString" />
+    <action args="JTextArea Instance,0" class="javax.swing.text.JTextComponent" method="actionClick" />
+    <action args="JTextArea Instance,Part C of the code" method="actionKeyString" />
+    <action args="Save 18" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="New Task" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="JTable Instance 2,&quot;Code (B)&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="Edit" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args=" Task Completed?" class="javax.swing.AbstractButton" method="actionClick" />
+    <action args="Save 19" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="JTable Instance 2,&quot;Code (A)&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="Edit" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args=" Task Completed?" class="javax.swing.AbstractButton" method="actionClick" />
+    <action args="Save 20" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="JTable Instance 2,&quot;Testing&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="Edit" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JTextField Instance 8,7,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 8,1122011" method="actionKeyString" />
+    <action args="Save 21" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="JTable Instance 2,&quot;Documentation&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="Edit" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JTextField Instance 8,7,0" class="javax.swing.text.JTextComponent" method="actionSelectText" />
+    <action args="JTextField Instance 8,1122011" method="actionKeyString" />
+    <action args="Save 22" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="JTable Instance 2,&quot;Code (C)&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="Edit" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args=" Task Completed?" class="javax.swing.AbstractButton" method="actionClick" />
+    <action args="Save 23" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="JTable Instance 2,&quot;Testing&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="Edit" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args=" Task Completed?" class="javax.swing.AbstractButton" method="actionClick" />
+    <action args="Save 24" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="JTable Instance 2,&quot;Documentation&quot;" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="Edit" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args=" Task Completed?" class="javax.swing.AbstractButton" method="actionClick" />
+    <action args="Save 25" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Edit Task - Requirements Analysis" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="Sort" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Sort Tasks" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args=" End Date" class="javax.swing.AbstractButton" method="actionClick" />
+    <action args="Save 26" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Sort Tasks" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="Save 17" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Saving..." class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="OptionPane.button" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Saving..." class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="Exit" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Project Manager" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+  </sequence>
+  <terminate />
+</AWTTestScript>
+
